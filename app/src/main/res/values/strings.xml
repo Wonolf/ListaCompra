@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ListaCompra</string>
+    <string name="FechaCad">Fecha de Caducidad</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Categoria">Categoria</string>
+    <string name="Precio">Precio</string>
+    <string name="Imagen" />
+    <string name="Boton">Pagar</string>
+    <string name="Añadir">Añadir</string>
+</resources>
